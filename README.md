@@ -3,7 +3,8 @@
 
 
 ## Summary
-Python Script to Scrape All Men Clothes Data from [H&M](https://eg.hm.com/en/shop-men/new-arrivals/clothes/) Website through Hidden API<br>
+H&M Group is a family of brands and businesses, making it possible for customers around the world to express themselves through fashion and design, and to choose a more sustainable lifestyle.<br>
+This is a Python Script to Scrape All Men Clothes Data from [H&M](https://eg.hm.com/en/shop-men/new-arrivals/clothes/) Website through Hidden API<br>
 Extracted Data are : Item Title, Item Price, Available Colors, Available Size, Item Context and Item Url
 
 ## Result Table Sample
